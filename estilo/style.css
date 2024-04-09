@@ -73,7 +73,7 @@ main.texto1{
     background-attachment: fixed;
 }
  main.texto1 > p{
-    width: 400px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.818);
     border-radius: 10px;
@@ -89,7 +89,7 @@ main.texto2{
     background-attachment: fixed;
 }
 main.texto2 > p{
-    width: 400px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
@@ -105,7 +105,7 @@ main.texto3{
     background-attachment: fixed;
 }
 main.texto3 > p{
-    width: 400px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
