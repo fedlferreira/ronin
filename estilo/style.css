@@ -67,13 +67,14 @@ main {
     font-weight: bolder;
 }
 main.texto1{
+    height: 100vh;
     background-image: url(../imagens/IMG_4178.jpg);
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
 }
  main.texto1 > p{
-    width: 300px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.818);
     border-radius: 10px;
@@ -82,14 +83,14 @@ main.texto1{
 }
 
 main.texto2{
-    height: 80vh;
+    height: 100vh;
     background-image: url(../imagens/IMG-20220702-WA0014.jpg);
     background-position: center top;
     background-size: cover;
     background-attachment: fixed;
 }
 main.texto2 > p{
-    width: 300px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
@@ -98,14 +99,14 @@ main.texto2 > p{
 }
 
 main.texto3{
-    height: 98vh;
+    height: 100vh;
     background-image: url(../imagens/DSC_0175.JPG);
     background-position: center top;
     background-size: cover;
     background-attachment: fixed;
 }
 main.texto3 > p{
-    width: 300px;
+    width: 350px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
