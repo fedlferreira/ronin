@@ -8,6 +8,10 @@
     padding: 0px;
     margin: 0px;
 }
+html, body{
+    min-height: 100vh;
+    background-color: grey;
+}
 header{
     background-image: linear-gradient(to bottom, black, rgb(178, 176, 176));
     color: white;
