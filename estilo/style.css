@@ -26,10 +26,13 @@ header>p{
     font-size: 1.5em;
     text-shadow: 2px 2px 5px rgba(234, 87, 87, 0.877);
 }
-header>blockquote{
-    text-align: justify;
-    margin: 0px 100px 0px 100px;
+.ronin {
+    display: inline-block;
+    padding: 10px;
+    text-shadow: none;
+    font-size: 1em;
 }
+
 header>nav{
     text-align: left;
 }
@@ -63,6 +66,7 @@ body{
 main {
     padding-top: 10vh;
     padding-bottom: 10vh;
+    padding-right: 50px;
     line-height: 2.5em;
     padding-left: 20px;
     text-align: justify;
@@ -78,7 +82,7 @@ main.texto1{
     background-attachment: fixed;
 }
  main.texto1 > p{
-    width: 350px;
+    display: inline-block;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.818);
     border-radius: 10px;
@@ -95,7 +99,7 @@ main.texto2{
     background-attachment: fixed;
 }
 main.texto2 > p{
-    width: 350px;
+    display: inline-block;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
@@ -111,7 +115,7 @@ main.texto3{
     background-attachment: fixed;
 }
 main.texto3 > p{
-    width: 350px;
+    display: inline-block;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
