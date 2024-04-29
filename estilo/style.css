@@ -81,7 +81,7 @@ main {
 main.texto2904 { 
     height: 100vh;
     background-image: url(../imagens/samurai2904.jpeg);
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
