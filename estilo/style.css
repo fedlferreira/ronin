@@ -78,6 +78,21 @@ main {
     font-weight: 400;
     font-style: normal;
 }
+main.texto1805 { 
+    height: 100vh;
+    background-image: url(../imagens/imagem0805.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+main.texto1805 > p{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.819);
+    border-radius: 10px;
+    text-align: justify;
+    font-weight: 600;
+ }
 main.texto2904 { 
     height: 100vh;
     background-image: url(../imagens/samurai2904.jpeg);
@@ -91,7 +106,8 @@ main.texto2904 > p{
     background-color: rgba(255, 255, 255, 0.819);
     border-radius: 10px;
     text-align: justify;
-    font-weight: 600; }
+    font-weight: 600; 
+}
 main.texto1604{
     height: 100vh;
     background-image: url(../imagens/imagem1604.jpg);
