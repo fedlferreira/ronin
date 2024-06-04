@@ -78,6 +78,21 @@ main {
     font-weight: 400;
     font-style: normal;
 }
+main.texto0406 { 
+    height: 100vh;
+    background-image: url(../imagens/imagem0406.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+main.texto0406 > p{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.819);
+    border-radius: 10px;
+    text-align: justify;
+    font-weight: 600;
+ }
 main.texto1805 { 
     height: 100vh;
     background-image: url(../imagens/imagem0805.jpg);
